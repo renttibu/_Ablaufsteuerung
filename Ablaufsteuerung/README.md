@@ -83,6 +83,6 @@ $commands[] = '@HM_WriteValueInteger(' . $id . ", 'DURATION_VALUE', " . $Duratio
 
 Beispiel:  
 
->AST_ExecuteCommands(12345, json_encode(json_encode($commands)));
+>AST_ExecuteCommands(12345, json_encode($commands));
 
 ---                       
